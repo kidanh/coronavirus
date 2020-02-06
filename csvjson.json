@@ -1,368 +1,188 @@
 [
   {
-    "Hubei|16": "Zhejiang|895|0|49 serious",
-    "678|479|1": "16 critical|https://www.zjwjw.gov.cn/art/2020/2/5/art_1202101_41877651.html",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Hubei|16"
   },
   {
-    "Hubei|16": "Guangdong|813|0|60 serious",
-    "678|479|1": "26 critical|http://wsjkw.gd.gov.cn/zwyw_yqxx/content/post_2883626.html",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Zhejiang|895|0|49 serious"
   },
   {
-    "Hubei|16": "Henan|764|2|38 serious",
-    "678|479|1": "19 critical|https://m.weibo.cn/status/4468524224936382",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Guangdong|813|0|60 serious"
   },
   {
-    "Hubei|16": "Hunan|661|0|57 serious|http://wjw.hunan.gov.cn/wjw/xxgk/gzdt/zyxw_1/202002/t20200205_11170191.html",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Henan|764|2|38 serious"
   },
   {
-    "Hubei|16": "Anhui|530|0|5 critical|http://wjw.ah.gov.cn/news_details_54548.html",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Hunan|661|0|57 serious|http://wjw.hunan.gov.cn/wjw/xxgk/gzdt/zyxw_1/202002/t20200205_11170191.html"
   },
   {
-    "Hubei|16": "Jiangxi|476|0| 37 serious |http://hc.jiangxi.gov.cn/doc/2020/02/04/138072.shtml",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Anhui|530|0|5 critical|http://wjw.ah.gov.cn/news_details_54548.html"
   },
   {
-    "Hubei|16": "Chongqing|366|2|24 serious",
-    "678|479|1": "10 critical|http://wsjkw.cq.gov.cn/tzgg/20200205/252088.html",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Jiangxi|476|0| 37 serious |http://hc.jiangxi.gov.cn/doc/2020/02/04/138072.shtml"
   },
   {
-    "Hubei|16": "Jiangsu|341|0|3 serious|https://m.weibo.cn/status/4468526570239002",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Chongqing|366|2|24 serious"
   },
   {
-    "Hubei|16": "Sichuan|302*|1|14 critical|https://m.weibo.cn/status/4468522342120636",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Jiangsu|341|0|3 serious|https://m.weibo.cn/status/4468526570239002"
   },
   {
-    "Hubei|16": "Shandong|298|0|21 serious",
-    "678|479|1": "4 critical|https://m.weibo.cn/status/4468522950108669",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Sichuan|302*|1|14 critical|https://m.weibo.cn/status/4468522342120636"
   },
   {
-    "Hubei|16": "Beijing|228|1|9 critical|https://m.weibo.cn/status/4468277256747197",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Shandong|298|0|21 serious"
   },
   {
-    "Hubei|16": "Shanghai|233|1|8 serious",
-    "678|479|1": "7 critical|https://m.weibo.cn/detail/4468511725846726",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Beijing|228|1|9 critical|https://m.weibo.cn/status/4468277256747197"
   },
   {
-    "Hubei|16": "Fujian|194|0|15 serious",
-    "678|479|1": "7 critical|https://mp.weixin.qq.com/s/g-KCNP1tEzclt40OUxnFgg",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Shanghai|233|1|8 serious"
   },
   {
-    "Hubei|16": "Shaanxi|142|0|1+ serious|http://sxwjw.shaanxi.gov.cn/art/2020/2/4/art_9_67724.html",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Fujian|194|0|15 serious"
   },
   {
-    "Hubei|16": "Guangxi|150|0|10 serious",
-    "678|479|1": "4 critical|http://wsjkw.gxzf.gov.cn/zhuantiqu/ncov/ncovyqtb/2020/0205/68385.html",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Shaanxi|142|0|1+ serious|http://sxwjw.shaanxi.gov.cn/art/2020/2/4/art_9_67724.html"
   },
   {
-    "Hubei|16": "Yunnan|122|0|13 serious",
-    "678|479|1": "3 critical|https://m.weibo.cn/status/4468501408683388",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Guangxi|150|0|10 serious"
   },
   {
-    "Hubei|16": "Hebei|135|1|12 serious|http://www.hebwst.gov.cn/index.do?id=396743&amp;templet=content&amp;cid=14",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Yunnan|122|0|13 serious"
   },
   {
-    "Hubei|16": "Heilongjiang|190|2|21 serious|http://wsjkw.hlj.gov.cn/index.php/Home/Zwgk/show/newsid/7759/navid/42/stypeid/",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Hebei|135|1|12 serious|http://www.hebwst.gov.cn/index.do?id=396743&amp;templet=content&amp;cid=14"
   },
   {
-    "Hubei|16": "Liaoning|81|0|6 serious|http://wsjk.ln.gov.cn/wst_wsjskx/202002/t20200204_3733940.html",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Heilongjiang|190|2|21 serious|http://wsjkw.hlj.gov.cn/index.php/Home/Zwgk/show/newsid/7759/navid/42/stypeid/"
   },
   {
-    "Hubei|16": "Hainan|80|1|10 serious|https://m.weibo.cn/detail/4468015657466283 http://wst.hainan.gov.cn/swjw/rdzt/yqfk/202002/t20200204_2743793.html https://m.weibo.cn/detail/4468015657466283",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Liaoning|81|0|6 serious|http://wsjk.ln.gov.cn/wst_wsjskx/202002/t20200204_3733940.html"
   },
   {
-    "Hubei|16": "Shanxi|81|0|4 serious",
-    "678|479|1": "4 critical|http://wjw.shanxi.gov.cn/wjywl02/24697.hrh",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Hainan|80|1|10 serious|https://m.weibo.cn/detail/4468015657466283 http://wst.hainan.gov.cn/swjw/rdzt/yqfk/202002/t20200204_2743793.html https://m.weibo.cn/detail/4468015657466283"
   },
   {
-    "Hubei|16": "Tianjin|67|0|17 serious",
-    "678|479|1": "4 critical|https://m.weibo.cn/detail/4468345388281570",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Shanxi|81|0|4 serious"
   },
   {
-    "Hubei|16": "Gansu|57|0|7 serious",
-    "678|479|1": "3 critical|http://wsjk.gansu.gov.cn/single/10910/83666.html",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Tianjin|67|0|17 serious"
   },
   {
-    "Hubei|16": "Guizhou|64|0|6 serious",
-    "678|479|1": "2 critical|https://m.weibo.cn/status/4468526477631339",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Gansu|57|0|7 serious"
   },
   {
-    "Hubei|16": "Ningxia|34|0|6 serious|http://wsjkw.nx.gov.cn/info/1140/13484.htm",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Guizhou|64|0|6 serious"
   },
   {
-    "Hubei|16": "Inner Mongolia|35|0||http://wjw.nmg.gov.cn/doc/2020/02/04/290542.shtml",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Ningxia|34|0|6 serious|http://wsjkw.nx.gov.cn/info/1140/13484.htm"
   },
   {
-    "Hubei|16": "Jilin|54|0|3 serious",
-    "678|479|1": "2 critical|https://m.weibo.cn/status/4468517891861972",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Inner Mongolia|35|0||http://wjw.nmg.gov.cn/doc/2020/02/04/290542.shtml"
   },
   {
-    "Hubei|16": "Xinjiang|29|0|8 serious",
-    "678|479|1": "2 critical|http://www.xjhfpc.gov.cn/info/1495/17972.htm",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Jilin|54|0|3 serious"
   },
   {
-    "Hubei|16": "Qinghai|17|0|1 serious|https://wsjkw.qinghai.gov.cn/zhxw/xwzx/2020/02/05/1580863223569.html",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Xinjiang|29|0|8 serious"
   },
   {
-    "Hubei|16": "Tibet|1|0|Stable|http://www.nhc.gov.cn/yjb/s7860/202001/e71bd2e7a0824ca69f87bbf1bef2a3c9.shtml",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Qinghai|17|0|1 serious|https://wsjkw.qinghai.gov.cn/zhxw/xwzx/2020/02/05/1580863223569.html"
   },
   {
-    "Hubei|16": "Undisclosed|206|0||http://www.nhc.gov.cn/yjb/s7860/202002/17a03704a99646ffad6807bc806f37a4.shtml",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Tibet|1|0|Stable|http://www.nhc.gov.cn/yjb/s7860/202001/e71bd2e7a0824ca69f87bbf1bef2a3c9.shtml"
   },
   {
-    "Hubei|16": "CHINA TOTAL|24",
-    "678|479|1": "324|490|3",
-    "809 serious": "219 serious",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": "892 recovered"
+    "sources": "Undisclosed|206|0||http://www.nhc.gov.cn/yjb/s7860/202002/17a03704a99646ffad6807bc806f37a4.shtml"
   },
   {
-    "Hubei|16": "Hong Kong|18|1||https://www.info.gov.hk/gia/general/202002/05/P2020020400729.htm",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "CHINA TOTAL|24"
   },
   {
-    "Hubei|16": "Taiwan|11|0||https://www.cdc.gov.tw/Bulletin/Detail/UkMLn272PYqss-tXBbIFoQ?typeid=9",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Hong Kong|18|1||https://www.info.gov.hk/gia/general/202002/05/P2020020400729.htm"
   },
   {
-    "Hubei|16": "Macau|10|0||https://news.gov.mo/detail/zh-hant/N20BDPAzBd?3",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Taiwan|11|0||https://www.cdc.gov.tw/Bulletin/Detail/UkMLn272PYqss-tXBbIFoQ?typeid=9"
   },
   {
-    "Hubei|16": "GREATER CHINA TOTAL|39|1|0 serious|",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Macau|10|0||https://news.gov.mo/detail/zh-hant/N20BDPAzBd?3"
   },
   {
-    "Hubei|16": "Japan|33*|0||https://www.mhlw.go.jp/stf/newpage_09276.html",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "GREATER CHINA TOTAL|39|1|0 serious|"
   },
   {
-    "Hubei|16": "Thailand|25|0|1 serious",
-    "678|479|1": "8 recovered|https://www.bbc.com/thai/thailand-51367988",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Japan|33*|0||https://www.mhlw.go.jp/stf/newpage_09276.html"
   },
   {
-    "Hubei|16": "Singapore|24|0|1 recovered|https://www.moh.gov.sg/news-highlights/details/confirmed-cases-of-local-transmission-of-novel-coronavirus-infection-in-singapore",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Thailand|25|0|1 serious"
   },
   {
-    "Hubei|16": "South Korea|18|0||https://www.yna.co.kr/view/AKR20200203098600017",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Singapore|24|0|1 recovered|https://www.moh.gov.sg/news-highlights/details/confirmed-cases-of-local-transmission-of-novel-coronavirus-infection-in-singapore"
   },
   {
-    "Hubei|16": "Australia|13|0|2 recovered|https://www.health.qld.gov.au/news-events/doh-media-releases/releases/queensland-coronavirus-update3",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "South Korea|18|0||https://www.yna.co.kr/view/AKR20200203098600017"
   },
   {
-    "Hubei|16": "Germany|12|0||https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-10/",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Australia|13|0|2 recovered|https://www.health.qld.gov.au/news-events/doh-media-releases/releases/queensland-coronavirus-update3"
   },
   {
-    "Hubei|16": "Malaysia|10|0|Stable|https://twitter.com/KKMPutrajaya/status/1224593259176968194",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Germany|12|0||https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-10/"
   },
   {
-    "Hubei|16": "United States|11|0||https://bnonews.com/wp-content/uploads/2020/02/222020Case.pdf",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Malaysia|10|0|Stable|https://twitter.com/KKMPutrajaya/status/1224593259176968194"
   },
   {
-    "Hubei|16": "Vietnam|10|0|3 recovered|https://www.vietnamnet.vn/vn/thoi-su/nguoi-thu-10-nhiem-corona-da-den-nha-cong-nhan-o-vinh-phuc-hat-karaoke-613730.html",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "United States|11|0||https://bnonews.com/wp-content/uploads/2020/02/222020Case.pdf"
   },
   {
-    "Hubei|16": "France|6|0|1 serious|https://www.francetvinfo.fr/sante/maladie/coronavirus/coronavirus-2019-ncov-les-six-cas-confirmes-en-france-sont-dans-un-etat-stable-selon-le-directeur-general-de-la-sante_3811051.html",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Vietnam|10|0|3 recovered|https://www.vietnamnet.vn/vn/thoi-su/nguoi-thu-10-nhiem-corona-da-den-nha-cong-nhan-o-vinh-phuc-hat-karaoke-613730.html"
   },
   {
-    "Hubei|16": "UAE|5|0|Stable|https://www.wam.ae/en/details/1395302820367",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "France|6|0|1 serious|https://www.francetvinfo.fr/sante/maladie/coronavirus/coronavirus-2019-ncov-les-six-cas-confirmes-en-france-sont-dans-un-etat-stable-selon-le-directeur-general-de-la-sante_3811051.html"
   },
   {
-    "Hubei|16": "Canada|5|0||https://www.cbc.ca/news/canada/british-columbia/2nd-case-of-coronavirus-confirmed-in-b-c-1.5451915",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "UAE|5|0|Stable|https://www.wam.ae/en/details/1395302820367"
   },
   {
-    "Hubei|16": "England|2|0||https://www.gov.uk/government/news/cmo-confirms-cases-of-coronavirus-in-england",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Canada|5|0||https://www.cbc.ca/news/canada/british-columbia/2nd-case-of-coronavirus-confirmed-in-b-c-1.5451915"
   },
   {
-    "Hubei|16": "Russia|2|0||https://tass.ru/obschestvo/7656549",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "England|2|0||https://www.gov.uk/government/news/cmo-confirms-cases-of-coronavirus-in-england"
   },
   {
-    "Hubei|16": "Philippines|2|1||https://twitter.com/WHOPhilippines/status/1223797298477424641",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Russia|2|0||https://tass.ru/obschestvo/7656549"
   },
   {
-    "Hubei|16": "India|3|0|Stable|https://www.pib.gov.in/PressReleseDetail.aspx?PRID=1601681",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Philippines|2|1||https://twitter.com/WHOPhilippines/status/1223797298477424641"
   },
   {
-    "Hubei|16": "Italy|2|0|2 serious|http://www.rainews.it/dl/rainews/articoli/Conte-due-casi-di-coronavirus-accertati-in-Italia-60b4294a-3a3f-4b05-ad1f-b096d1c60110.html",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "India|3|0|Stable|https://www.pib.gov.in/PressReleseDetail.aspx?PRID=1601681"
   },
   {
-    "Hubei|16": "Nepal|1|0||https://kathmandupost.com/2/2020/01/24/officials-confirm-novel-coronavirus-in-nepali-man-who-returned-from-wuhan-earlier-this-month",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Italy|2|0|2 serious|http://www.rainews.it/dl/rainews/articoli/Conte-due-casi-di-coronavirus-accertati-in-Italia-60b4294a-3a3f-4b05-ad1f-b096d1c60110.html"
   },
   {
-    "Hubei|16": "Cambodia|1|0||https://twitter.com/VOD_English/status/1221769368180121603",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Nepal|1|0||https://kathmandupost.com/2/2020/01/24/officials-confirm-novel-coronavirus-in-nepali-man-who-returned-from-wuhan-earlier-this-month"
   },
   {
-    "Hubei|16": "Sri Lanka|1|0|1 recovered|https://www.reuters.com/article/us-health-china-sri-lanka/sri-lanka-confirms-first-case-of-coronavirus-health-official-idUSKBN1ZQ1WF",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Cambodia|1|0||https://twitter.com/VOD_English/status/1221769368180121603"
   },
   {
-    "Hubei|16": "Finland|1|0||https://www.hs.fi/kotimaa/art-2000006387778.html",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Sri Lanka|1|0|1 recovered|https://www.reuters.com/article/us-health-china-sri-lanka/sri-lanka-confirms-first-case-of-coronavirus-health-official-idUSKBN1ZQ1WF"
   },
   {
-    "Hubei|16": "Sweden|1|0||https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Finland|1|0||https://www.hs.fi/kotimaa/art-2000006387778.html"
   },
   {
-    "Hubei|16": "Spain|1|0||https://www.antena3.com/noticias/sociedad/confirmado-caso-coronavirus-gomera_202001315e34a9380cf2cfb788f47b07.html",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Sweden|1|0||https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/"
   },
   {
-    "Hubei|16": "Belgium|1|0||https://www.info-coronavirus.be/nl/2020/02/04/gerepatrieerde-landgenoot-testte-positief-op-het-nieuwe-coronavirus/",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Spain|1|0||https://www.antena3.com/noticias/sociedad/confirmado-caso-coronavirus-gomera_202001315e34a9380cf2cfb788f47b07.html"
   },
   {
-    "Hubei|16": "INTERNATIONAL TOTAL|190|1|4 serious|",
-    "678|479|1": "",
-    "809 serious": "",
-    "711 critical|http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200205_2019293.shtml": ""
+    "sources": "Belgium|1|0||https://www.info-coronavirus.be/nl/2020/02/04/gerepatrieerde-landgenoot-testte-positief-op-het-nieuwe-coronavirus/"
+  },
+  {
+    "sources": "INTERNATIONAL TOTAL|190|1|4 serious|"
   }
 ]
