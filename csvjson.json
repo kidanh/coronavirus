@@ -1,188 +1,194 @@
 [
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Hubei|16"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "# update: 2020-02-4 20:52:00 ET"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Zhejiang|895|0|49 serious"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "# place|confirmed_cases|deaths|notes|sources"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Guangdong|813|0|60 serious"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Hubei|16"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Henan|764|2|38 serious"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Zhejiang|895|0|49 serious"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Hunan|661|0|57 serious|http://wjw.hunan.gov.cn/wjw/xxgk/gzdt/zyxw_1/202002/t20200205_11170191.html"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Guangdong|813|0|60 serious"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Anhui|530|0|5 critical|http://wjw.ah.gov.cn/news_details_54548.html"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Henan|764|2|38 serious"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Jiangxi|476|0| 37 serious |http://hc.jiangxi.gov.cn/doc/2020/02/04/138072.shtml"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Hunan|661|0|57 serious|http://wjw.hunan.gov.cn/wjw/xxgk/gzdt/zyxw_1/202002/t20200205_11170191.html"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Chongqing|366|2|24 serious"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Anhui|530|0|5 critical|http://wjw.ah.gov.cn/news_details_54548.html"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Jiangsu|341|0|3 serious|https://m.weibo.cn/status/4468526570239002"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Jiangxi|476|0| 37 serious |http://hc.jiangxi.gov.cn/doc/2020/02/04/138072.shtml"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Sichuan|302*|1|14 critical|https://m.weibo.cn/status/4468522342120636"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Chongqing|366|2|24 serious"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Shandong|298|0|21 serious"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Jiangsu|341|0|3 serious|https://m.weibo.cn/status/4468526570239002"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Beijing|228|1|9 critical|https://m.weibo.cn/status/4468277256747197"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Sichuan|302*|1|14 critical|https://m.weibo.cn/status/4468522342120636"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Shanghai|233|1|8 serious"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Shandong|298|0|21 serious"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Fujian|194|0|15 serious"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Beijing|228|1|9 critical|https://m.weibo.cn/status/4468277256747197"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Shaanxi|142|0|1+ serious|http://sxwjw.shaanxi.gov.cn/art/2020/2/4/art_9_67724.html"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Shanghai|233|1|8 serious"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Guangxi|150|0|10 serious"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Fujian|194|0|15 serious"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Yunnan|122|0|13 serious"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Shaanxi|142|0|1+ serious|http://sxwjw.shaanxi.gov.cn/art/2020/2/4/art_9_67724.html"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Hebei|135|1|12 serious|http://www.hebwst.gov.cn/index.do?id=396743&amp;templet=content&amp;cid=14"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Guangxi|150|0|10 serious"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Heilongjiang|190|2|21 serious|http://wsjkw.hlj.gov.cn/index.php/Home/Zwgk/show/newsid/7759/navid/42/stypeid/"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Yunnan|122|0|13 serious"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Liaoning|81|0|6 serious|http://wsjk.ln.gov.cn/wst_wsjskx/202002/t20200204_3733940.html"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Hebei|135|1|12 serious|http://www.hebwst.gov.cn/index.do?id=396743&amp;templet=content&amp;cid=14"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Hainan|80|1|10 serious|https://m.weibo.cn/detail/4468015657466283 http://wst.hainan.gov.cn/swjw/rdzt/yqfk/202002/t20200204_2743793.html https://m.weibo.cn/detail/4468015657466283"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Heilongjiang|190|2|21 serious|http://wsjkw.hlj.gov.cn/index.php/Home/Zwgk/show/newsid/7759/navid/42/stypeid/"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Shanxi|81|0|4 serious"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Liaoning|81|0|6 serious|http://wsjk.ln.gov.cn/wst_wsjskx/202002/t20200204_3733940.html"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Tianjin|67|0|17 serious"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Hainan|80|1|10 serious|https://m.weibo.cn/detail/4468015657466283 http://wst.hainan.gov.cn/swjw/rdzt/yqfk/202002/t20200204_2743793.html https://m.weibo.cn/detail/4468015657466283"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Gansu|57|0|7 serious"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Shanxi|81|0|4 serious"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Guizhou|64|0|6 serious"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Tianjin|67|0|17 serious"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Ningxia|34|0|6 serious|http://wsjkw.nx.gov.cn/info/1140/13484.htm"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Gansu|57|0|7 serious"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Inner Mongolia|35|0||http://wjw.nmg.gov.cn/doc/2020/02/04/290542.shtml"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Guizhou|64|0|6 serious"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Jilin|54|0|3 serious"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Ningxia|34|0|6 serious|http://wsjkw.nx.gov.cn/info/1140/13484.htm"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Xinjiang|29|0|8 serious"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Inner Mongolia|35|0||http://wjw.nmg.gov.cn/doc/2020/02/04/290542.shtml"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Qinghai|17|0|1 serious|https://wsjkw.qinghai.gov.cn/zhxw/xwzx/2020/02/05/1580863223569.html"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Jilin|54|0|3 serious"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Tibet|1|0|Stable|http://www.nhc.gov.cn/yjb/s7860/202001/e71bd2e7a0824ca69f87bbf1bef2a3c9.shtml"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Xinjiang|29|0|8 serious"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Undisclosed|206|0||http://www.nhc.gov.cn/yjb/s7860/202002/17a03704a99646ffad6807bc806f37a4.shtml"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Qinghai|17|0|1 serious|https://wsjkw.qinghai.gov.cn/zhxw/xwzx/2020/02/05/1580863223569.html"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "CHINA TOTAL|24"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Tibet|1|0|Stable|http://www.nhc.gov.cn/yjb/s7860/202001/e71bd2e7a0824ca69f87bbf1bef2a3c9.shtml"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Hong Kong|18|1||https://www.info.gov.hk/gia/general/202002/05/P2020020400729.htm"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Undisclosed|206|0||http://www.nhc.gov.cn/yjb/s7860/202002/17a03704a99646ffad6807bc806f37a4.shtml"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Taiwan|11|0||https://www.cdc.gov.tw/Bulletin/Detail/UkMLn272PYqss-tXBbIFoQ?typeid=9"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "CHINA TOTAL|24"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Macau|10|0||https://news.gov.mo/detail/zh-hant/N20BDPAzBd?3"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Hong Kong|18|1||https://www.info.gov.hk/gia/general/202002/05/P2020020400729.htm"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "GREATER CHINA TOTAL|39|1|0 serious|"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Taiwan|11|0||https://www.cdc.gov.tw/Bulletin/Detail/UkMLn272PYqss-tXBbIFoQ?typeid=9"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Japan|33*|0||https://www.mhlw.go.jp/stf/newpage_09276.html"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Macau|10|0||https://news.gov.mo/detail/zh-hant/N20BDPAzBd?3"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Thailand|25|0|1 serious"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "GREATER CHINA TOTAL|39|1|0 serious|"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Singapore|24|0|1 recovered|https://www.moh.gov.sg/news-highlights/details/confirmed-cases-of-local-transmission-of-novel-coronavirus-infection-in-singapore"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Japan|33*|0||https://www.mhlw.go.jp/stf/newpage_09276.html"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "South Korea|18|0||https://www.yna.co.kr/view/AKR20200203098600017"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Thailand|25|0|1 serious"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Australia|13|0|2 recovered|https://www.health.qld.gov.au/news-events/doh-media-releases/releases/queensland-coronavirus-update3"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Singapore|24|0|1 recovered|https://www.moh.gov.sg/news-highlights/details/confirmed-cases-of-local-transmission-of-novel-coronavirus-infection-in-singapore"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Germany|12|0||https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-10/"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "South Korea|18|0||https://www.yna.co.kr/view/AKR20200203098600017"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Malaysia|10|0|Stable|https://twitter.com/KKMPutrajaya/status/1224593259176968194"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Australia|13|0|2 recovered|https://www.health.qld.gov.au/news-events/doh-media-releases/releases/queensland-coronavirus-update3"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "United States|11|0||https://bnonews.com/wp-content/uploads/2020/02/222020Case.pdf"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Germany|12|0||https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-10/"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Vietnam|10|0|3 recovered|https://www.vietnamnet.vn/vn/thoi-su/nguoi-thu-10-nhiem-corona-da-den-nha-cong-nhan-o-vinh-phuc-hat-karaoke-613730.html"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Malaysia|10|0|Stable|https://twitter.com/KKMPutrajaya/status/1224593259176968194"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "France|6|0|1 serious|https://www.francetvinfo.fr/sante/maladie/coronavirus/coronavirus-2019-ncov-les-six-cas-confirmes-en-france-sont-dans-un-etat-stable-selon-le-directeur-general-de-la-sante_3811051.html"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "United States|11|0||https://bnonews.com/wp-content/uploads/2020/02/222020Case.pdf"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "UAE|5|0|Stable|https://www.wam.ae/en/details/1395302820367"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Vietnam|10|0|3 recovered|https://www.vietnamnet.vn/vn/thoi-su/nguoi-thu-10-nhiem-corona-da-den-nha-cong-nhan-o-vinh-phuc-hat-karaoke-613730.html"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Canada|5|0||https://www.cbc.ca/news/canada/british-columbia/2nd-case-of-coronavirus-confirmed-in-b-c-1.5451915"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "France|6|0|1 serious|https://www.francetvinfo.fr/sante/maladie/coronavirus/coronavirus-2019-ncov-les-six-cas-confirmes-en-france-sont-dans-un-etat-stable-selon-le-directeur-general-de-la-sante_3811051.html"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "England|2|0||https://www.gov.uk/government/news/cmo-confirms-cases-of-coronavirus-in-england"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "UAE|5|0|Stable|https://www.wam.ae/en/details/1395302820367"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Russia|2|0||https://tass.ru/obschestvo/7656549"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Canada|5|0||https://www.cbc.ca/news/canada/british-columbia/2nd-case-of-coronavirus-confirmed-in-b-c-1.5451915"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Philippines|2|1||https://twitter.com/WHOPhilippines/status/1223797298477424641"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "England|2|0||https://www.gov.uk/government/news/cmo-confirms-cases-of-coronavirus-in-england"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "India|3|0|Stable|https://www.pib.gov.in/PressReleseDetail.aspx?PRID=1601681"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Russia|2|0||https://tass.ru/obschestvo/7656549"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Italy|2|0|2 serious|http://www.rainews.it/dl/rainews/articoli/Conte-due-casi-di-coronavirus-accertati-in-Italia-60b4294a-3a3f-4b05-ad1f-b096d1c60110.html"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Philippines|2|1||https://twitter.com/WHOPhilippines/status/1223797298477424641"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Nepal|1|0||https://kathmandupost.com/2/2020/01/24/officials-confirm-novel-coronavirus-in-nepali-man-who-returned-from-wuhan-earlier-this-month"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "India|3|0|Stable|https://www.pib.gov.in/PressReleseDetail.aspx?PRID=1601681"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Cambodia|1|0||https://twitter.com/VOD_English/status/1221769368180121603"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Italy|2|0|2 serious|http://www.rainews.it/dl/rainews/articoli/Conte-due-casi-di-coronavirus-accertati-in-Italia-60b4294a-3a3f-4b05-ad1f-b096d1c60110.html"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Sri Lanka|1|0|1 recovered|https://www.reuters.com/article/us-health-china-sri-lanka/sri-lanka-confirms-first-case-of-coronavirus-health-official-idUSKBN1ZQ1WF"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Nepal|1|0||https://kathmandupost.com/2/2020/01/24/officials-confirm-novel-coronavirus-in-nepali-man-who-returned-from-wuhan-earlier-this-month"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Finland|1|0||https://www.hs.fi/kotimaa/art-2000006387778.html"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Cambodia|1|0||https://twitter.com/VOD_English/status/1221769368180121603"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Sweden|1|0||https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Sri Lanka|1|0|1 recovered|https://www.reuters.com/article/us-health-china-sri-lanka/sri-lanka-confirms-first-case-of-coronavirus-health-official-idUSKBN1ZQ1WF"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Spain|1|0||https://www.antena3.com/noticias/sociedad/confirmado-caso-coronavirus-gomera_202001315e34a9380cf2cfb788f47b07.html"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Finland|1|0||https://www.hs.fi/kotimaa/art-2000006387778.html"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "Belgium|1|0||https://www.info-coronavirus.be/nl/2020/02/04/gerepatrieerde-landgenoot-testte-positief-op-het-nieuwe-coronavirus/"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Sweden|1|0||https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/"
   },
   {
-    "# place|confirmed_cases|deaths|notes|sources": "INTERNATIONAL TOTAL|190|1|4 serious|"
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Spain|1|0||https://www.antena3.com/noticias/sociedad/confirmado-caso-coronavirus-gomera_202001315e34a9380cf2cfb788f47b07.html"
+  },
+  {
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "Belgium|1|0||https://www.info-coronavirus.be/nl/2020/02/04/gerepatrieerde-landgenoot-testte-positief-op-het-nieuwe-coronavirus/"
+  },
+  {
+    "# source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/": "INTERNATIONAL TOTAL|190|1|4 serious|"
   }
 ]
